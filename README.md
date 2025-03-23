@@ -19,9 +19,9 @@
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 
 ## 🔗 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kierncb/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kierncb/)
 [![Tableau Public](https://img.shields.io/badge/Tableau%20Public-005F9E?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/kierncb/vizzes)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kncbaladad@gmail.com)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kncbaladad@gmail.com)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=kierncb&icon=0&color=0)](https://visitcount.itsvg.in)
