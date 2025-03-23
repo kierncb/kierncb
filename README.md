@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 👋 Hi, I'm Kier Niño!
 I'm a **Computer Engineering student** specialized in **Big Data Analytics**.<br>
 
 # 💻 Tech Stack:
