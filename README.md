@@ -1,18 +1,16 @@
-## Hi there! 👋 Welcome to my GitHub Profile!
+# 💫 About Me:
+I'm a **Computer Engineering student** with a strong passion for **data analytics**. I enjoy working with **Excel, Python, SQL, and Tableau**.<br><br>### 🔍 About Me  <br>- 🎓 **Studying:** Bachelor of Science in Computer Engineering  <br>- 📊 **Focus Areas:** Data Analytics<br>- 💻 **Tech Stack:** Excel, Python, SQL, Tableau
 
-I'm a **Computer Engineering student** with a strong passion for **data analytics**. I enjoy working with **Excel, Python, SQL, and Tableau**.
 
-### 🔍 About Me  
-- 🎓 **Studying:** Bachelor of Science in Computer Engineering  
-- 📊 **Focus Areas:** Data Analytics
-- 💻 **Tech Stack:** Excel, Python, SQL, Tableau
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
-### 📜 Notable Projects  
-- 🛍 **Supermarket Sales Analysis** - An EDA project analyzing sales trends and customer behavior  
-- 📂 **Job Postings Data Analysis** - Extracting insights from job market trends  
-- 📈 **Enrollment Dashboard** - Interactive visualization of enrollment data across regions  
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=kierncb&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=kierncb&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kierncb&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 📫 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/kierncb/)  
+---
+[![](https://visitcount.itsvg.in/api?id=kierncb&icon=0&color=0)](https://visitcount.itsvg.in)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kierncb&show_icons=true&theme=dark)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
