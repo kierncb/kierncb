@@ -1,9 +1,9 @@
 # 📌 About Me  
 
-- 🎓 **Computer Engineering student** from **Makati City, Metro Manila**  
-- 📊 Specializing in **Big Data Analytics**  
+- 📍 From **Makati City, Metro Manila**  
+- 🎓 **Computer Engineering student** specializing in **Big Data Analytics**  
 - 🔍 **Aspiring Data Analyst** passionate about transforming data into meaningful insights  
-- 💡 Interested in data-driven decision-making and analytical problem-solving 
+- 💡 Interested in data-driven decision-making and analytical problem-solving  
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
