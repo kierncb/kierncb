@@ -1,7 +1,7 @@
 ## 📌 About Me  
 
 - 📍 From **Makati City, Metro Manila**  
-- 🎓 **Computer Engineering student** specializing in **Big Data Analytics**  
+- 🎓 **Computer Engineering** student specializing in **Big Data Analytics**  
 - 🔍 **Aspiring Data Analyst** passionate about transforming data into meaningful insights  
 - 💡 Interested in data-driven decision-making and analytical problem-solving  
 
