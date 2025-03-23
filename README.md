@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a **Computer Engineering student** with a strong passion for **data analytics**. I enjoy working with **Excel, Python, SQL, and Tableau**.<br><br>
+I'm a **Computer Engineering student** with a strong passion for **data analytics**.<br>
 <br>- 🎓 **Studying:** Bachelor of Science in Computer Engineering  <br>- 📊 **Focus Areas:** Data Analytics<br>- 💻 **Tech Stack:** Excel, Python, SQL, Tableau
 
 
