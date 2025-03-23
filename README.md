@@ -1,5 +1,6 @@
 # 👋 Hi, I'm Kier Niño!
-I'm a **Computer Engineering student** specialized in **Big Data Analytics**<br>
+I'm a **Computer Engineering student** from **Makati City, Metro Manila** specializing in **Big Data Analytics**.<br>  
+An **aspiring Data Analyst** passionate about turning data into insights! 📊 
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
