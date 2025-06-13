@@ -1,8 +1,3 @@
-## 📌 About Me  
-
-- 🎓 **Computer Engineering** student specializing in **Big Data Analytics**  
-- 📍 From **Makati City, Metro Manila**  
-
 ## 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Seaborn](https://img.shields.io/badge/Seaborn-0095A8?style=for-the-badge&logo=python&logoColor=white)
@@ -18,3 +13,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kierncb/)
 [![Tableau Public](https://img.shields.io/badge/Tableau%20Public-005F9E?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/kierncb/vizzes)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kncbaladad@gmail.com)
+
+Data Analysis: Microsoft Excel, SQL, Python (Pandas)
+Data Visualization: Microsoft Excel, Tableau, Python (Matplotlib, Seaborn, Plotly-Dash)
+Database: Microsoft SQL Server, PostgreSQL
