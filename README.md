@@ -1,2 +1,3 @@
 Hi, just building things, breaking things, and figuring stuff out along the way.
+
 Into data, tech, and making life a bit more efficient, learning something new every day.
