@@ -1,2 +1,5 @@
 Hi 👋  
-Just building things, breaking things, and figuring stuff out along the way.
+
+Just building things, 
+breaking things, 
+and figuring things out along the way.
