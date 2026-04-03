@@ -1,7 +1,7 @@
-> ### Big Data Analytics Student
+> ### **Big Data Analytics Student**
+> 
 > *building, breaking, figuring things out.*
 
 
 ###### **TECH STACKS**
-
-`python`   `sql`   `excel`   `power bi`   `tableau`
+`excel` `power bi` `python` `sql` `tableau`   
