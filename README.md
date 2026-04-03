@@ -1,4 +1,4 @@
-> ### **Big Data Analytics Student**
+### **Big Data Analytics Student**
 > 
 > *building, breaking, figuring things out.*
 
