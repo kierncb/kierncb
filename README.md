@@ -4,4 +4,4 @@
 
 
 ###### **TECH STACKS**
-`bigquery` `excel` `power bi` `python` `sql` `tableau`   
+`excel` `power bi` `python` `sql` `tableau`   
