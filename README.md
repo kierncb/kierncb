@@ -1,6 +1,6 @@
 ### **Data Analyst**
 > 
-> *Where curiosity meets data*
+> *where curiosity meets data*
 
 
 ###### **TECH STACKS**
