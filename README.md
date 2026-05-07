@@ -1,6 +1,6 @@
 ### **Data Analyst**
 > 
-> *building, breaking, figuring things out.*
+> *Where curiosity meets data*
 
 
 ###### **TECH STACKS**
