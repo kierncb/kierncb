@@ -1,4 +1,4 @@
-### **Data Analyst*
+### **Data Analyst**
 > 
 > *building, breaking, figuring things out.*
 
